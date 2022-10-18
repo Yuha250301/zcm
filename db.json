@@ -1,14 +1,93 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"serverfarm": [
+		{
+			"id": "photo_chat_info",
+			"className": "com.vng.zing.photo.thrift.wrapper.PhotoClient",
+			"description": "Service PhotoClient use for each farm",
+			"version": "05-09-2022 09:54:35",
+			"ats": [
+				{
+					"ip": "10.30.65.59",
+					"status": true
+				},
+				{
+					"ip": "10.30.65.74",
+					"status": false
+				}
+			]
+		},
+		{
+			"id": "photo_chat_hd_info",
+			"className": "com.vng.zing.photo.thrift.wrapper.PhotoClient",
+			"description": "Service PhotoClient use for each farm",
+			"version": "05-09-2022 09:54:35",
+			"ats": [
+				{
+					"ip": "10.30.65.59",
+					"status": true
+				},
+				{
+					"ip": "10.30.65.74",
+					"status": false
+				}
+			]
+		}
+	],
+	"dashboard": [
+		{
+			"id": "photo",
+			"stats": [
+				{
+					"name": "PHOTO_CHAT",
+					"errors": 10,
+					"totals": 9248963
+				},
+				{
+					"name": "PHOTO_CHAT_HD",
+					"errors": 10,
+					"totals": 7493438
+				},
+				{
+					"name": "PHOTO_CHAT_GROUP",
+					"errors": 0,
+					"totals": 3680487
+				},
+				{
+					"name": "PHOTO_CHAT_GROUP_HD",
+					"errors": 2,
+					"totals": 2834034
+				},
+				{
+					"name": "PHOTO_CHAT_MYCLOUD",
+					"errors": 0,
+					"totals": 532989
+				},
+				{
+					"name": "PHOTO_CHAT_MYCLOUD_HD",
+					"errors": 6,
+					"totals": 651485
+				},
+				{
+					"name": "PHOTO_DRAW",
+					"errors": 0,
+					"totals": 0
+				},
+				{
+					"name": "PHOTO_ECARDH5",
+					"errors": 0,
+					"totals": 11676
+				},
+				{
+					"name": "PHOTO_DOODLE",
+					"errors": 0,
+					"totals": 4903
+				},
+				{
+					"name": "PHOTO_PRODUCT",
+					"errors": 0,
+					"totals": 0
+				}
+			]
+		}		
+	]
 }
