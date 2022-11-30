@@ -89,7 +89,32 @@
 				}
 			],
 		"total": 100000
-		}		
+		},	{
+			"id": "others_photo",
+			"stats": [
+				{
+					"name": "PHOTO_DRAW",
+					"errors": 0,
+					"totals": 0
+				},
+				{
+					"name": "PHOTO_ECARDH5",
+					"errors": 0,
+					"totals": 11676
+				},
+				{
+					"name": "PHOTO_DOODLE",
+					"errors": 0,
+					"totals": 4903
+				},
+				{
+					"name": "PHOTO_PRODUCT",
+					"errors": 0,
+					"totals": 0
+				}
+			],
+		"total": 100000
+		}	
 	], 
 	"info": [
 		{
