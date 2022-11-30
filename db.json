@@ -66,26 +66,6 @@
 					"name": "PHOTO_CHAT_MYCLOUD_HD",
 					"errors": 6,
 					"totals": 651485
-				},
-				{
-					"name": "PHOTO_DRAW",
-					"errors": 0,
-					"totals": 0
-				},
-				{
-					"name": "PHOTO_ECARDH5",
-					"errors": 0,
-					"totals": 11676
-				},
-				{
-					"name": "PHOTO_DOODLE",
-					"errors": 0,
-					"totals": 4903
-				},
-				{
-					"name": "PHOTO_PRODUCT",
-					"errors": 0,
-					"totals": 0
 				}
 			],
 		"total": 100000
