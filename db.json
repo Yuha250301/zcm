@@ -35,7 +35,7 @@
 	],
 	"dashboard": [
 		{
-			"id": "photo",
+			"id": "photo_chat",
 			"stats": [
 				{
 					"name": "PHOTO_CHAT",
