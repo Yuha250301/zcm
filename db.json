@@ -14,7 +14,8 @@
 					"ip": "10.30.65.74",
 					"status": false
 				}
-			]
+			],
+			"reuseTime": 0
 		},
 		{
 			"id": "photo_chat_hd_info",
@@ -30,7 +31,8 @@
 					"ip": "10.30.65.74",
 					"status": false
 				}
-			]
+			],
+			"reuseTime": 0
 		}
 	],
 	"dashboard": [
