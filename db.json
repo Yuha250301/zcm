@@ -35,6 +35,20 @@
 			"reuseTime": 0
 		}
 	],
+	"farmnode": [
+		{
+			"id": "share_file_info",
+			"className": "com.vng.zing.photo.thrift.wrapper.PhotoClient",
+			"version": "05-09-2022 09:54:35",
+			"reuseTime": 1
+		},
+		{
+			"id": "share_file_group_info",
+			"className": "com.vng.zing.photo.thrift.wrapper.PhotoClient",
+			"version": "05-09-2022 09:54:35",
+			"reuseTime": 0
+		}
+	],
 	"dashboard": [
 		{
 			"id": "photo_chat",
