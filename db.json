@@ -39,7 +39,7 @@
 		{
 			"id": "share_file_info",
 			"className": "com.vng.zing.photo.thrift.wrapper.PhotoClient",
-			"version": "05-09-2022 09:54:35",
+			"version": "",
 			"reuseTime": 1
 		},
 		{
