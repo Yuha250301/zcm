@@ -49,6 +49,20 @@
 			"reuseTime": 0
 		}
 	],
+	"listclient": [
+		{
+			"id": "common_chunkdata_services_info",
+			"className": "com.vng.zing.zcommmedia.clients.ZAPFileChunkClient",
+			"description": "",
+			"version": "05-09-2022 09:54:35"
+		},
+		{
+			"id": "common_chunkid_services_info",
+			"className": "com.vng.zing.strliststr.thrift.wrapper.StrListStrClient",
+			"description": "",
+			"version": "05-09-2022 09:54:35"
+		}
+	],
 	"dashboard": [
 		{
 			"id": "photo_chat",
