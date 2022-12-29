@@ -125,7 +125,25 @@
 			],
 		"total": 100000
 		}	
-	], 
+	],
+	"admin/listRoles": [
+		{
+			"id": "1",
+			"role": "SO"
+		},
+		{
+			"id": "2",
+			"role": "QC"
+		},
+		{
+			"id": "3",
+			"role": "BE"
+		},
+		{
+			"id": "4",
+			"role": "Team Chat"
+		}
+	],
 	"info": [
 		{
 			"id": "0914879496",
